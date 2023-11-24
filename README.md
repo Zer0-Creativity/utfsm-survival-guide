@@ -15,6 +15,7 @@ Tenemos la intención de actualizarlo y agregarle algunas cosita. Cualquier come
 - [Como editar cosas pequeñas](#como-editar-cosas-pequenas)
     - [Formato de Páginas](#formato-de-paginas)
 - [Como hacer cambios grandes y probarlos localmente](#como-hacer-cambios-grandes-y-probarlos-localmente)
+    - [Setup y servidor local](#setup-y-servidor-local)
     - [Añadir una página nueva](#anadir-una-pagina-nueva)
     - [Añadir una sección nueva](#anadir-una-seccion-nueva)
 - [Agradecimientos](#agradecimientos)
