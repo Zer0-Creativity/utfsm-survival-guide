@@ -9,7 +9,7 @@ folder: aportar
 
 Hola! este es un "mini" tutorial de cómo hacer un Pull Request (o PR) en github para poder subir tus aportes al manual :D (esperemos que sea mini). Primero tienen que tener una cuenta en github (bruh) y saber un poco del marcado de MarkDown (**a partir de ahora MD**, rial no es nada difícil). *Quizás también un poco de HTML* y [Git](https://rogerdudler.github.io/git-guide/)
 
-Cuando esten logeados (inicien sesión) en github, se van al [repositorio del manual](https://github.com/CEEINF-UTFSM/utfsm-survival-guide), en el recuadro que dice *master* deben buscar ***development*** e ir hacia la carpeta *pages -> [semestre que desean modificar]*:
+Cuando esten logeados (inicien sesión) en github, se van al [repositorio del manual](https://github.com/Zer0-Creativity/utfsm-survival-guide), en el recuadro que dice *master* deben buscar ***development*** e ir hacia la carpeta *pages -> [semestre que desean modificar]*:
 
 <div class='text-center mb-3'>
     <img src="images/como-aportar/pr1.jpg" alt="pull-request" height="auto">

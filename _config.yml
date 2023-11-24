@@ -1,62 +1,36 @@
-repository: redhelper/utfsm-survival-guide
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# this property is useful for conditional filtering of content that is separate from the PDF.
-output: web
+title: UTFSM Survival Guide
+description: >- # this means to ignore newlines until "baseurl:"
+  Guia de supervivencia para la carrera de civil informatica en la USM.
+  Suerte a todo quien entre aquí.
+baseurl: "/utfsm-survival-guide" # the subpath of your site, e.g. /blog
+url: "https://zer0-creativity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-# this appears on the top navigation bar next to the home button
-topnav_title: UTFSM Survival
+# Build settings
+organization_name: Zer0 Creativity
+organization_site: https://github.com/Zer0-Creativity
+creator_user: luckjmg
+creator_site: https://github.com/luckjmg
 
-# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
-site_title: UTFSM students survival guide
-
-# this appears in the footer
-
-organization_name: Ceeinf UTFSM
-organization_site: https://github.com/CEEINF-UTFSM
-creator_user: redhelper
-creator_name: Rafael Calvo
-creator_site: https://github.com/redhelper
-
-# if you have google-analytics ID, put it in. if not, edit this value to blank.
-google_analytics: 
-
-# the preview server used. Leave as is.
-host: 127.0.0.1
-
-# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
-port: 4000
-
-# these are the files and directories that jekyll will exclude from the build
-exclude:
-  - .idea/
-  - .gitignore
-  - vendor
-
-feedback_disable: true
-# if you uncomment the previous line, the Feedback link gets removed
-# feedback_subject_line: UTFSM Manual
-# feedback_email: rcalvo044@gmail.com
-
-# feedback_link: "http://helpy.io/"
-# if you uncomment the previous line, it changes where the feedback link points to
-
-# library used for syntax highlighting
-highlighter: rouge
-
-# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
-markdown: kramdown
-kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
-
-# collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
-collections:
-  tooltips:
-    output: false
-
-# these are defaults used for the frontmatter for these file types:
 defaults:
   -
     scope:
@@ -68,36 +42,30 @@ defaults:
       search: true
       sidebar: home_sidebar
       topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "tooltips"
-    values:
-      layout: "page"
-      search: true
-      tooltip: true
 
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: false # this uses a Commento.io account. Don't use it.
-      search: true
-      sidebar: home_sidebar
-      topnav: topnav
+topnav_title: UTFSM Survival
+feedback_disable: true
 
+theme: minima
+plugins:
+  - jekyll-feed
 
-sidebars:
-- home_sidebar
-- main_sidebar
-
-# the description is used in the feed.xml file
-# description: ""
-
-# needed for sitemap.xml file only
-# url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll
-
-github: [metadata]
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
