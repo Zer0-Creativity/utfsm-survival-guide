@@ -140,7 +140,7 @@ Ahora una pequeña mención a los contribuidores del proyecto a lo largo de su e
 - [Pantuflaa](https://github.com/Pantuflaa)
 - [NeuronaSaturada](https://github.com/NeuronaSaturada)
 
-**Tema Actual**
+**Team Actual**
 
 - [LuckJMG](https://github.com/LuckJMG)
 - [siroale](https://github.com/siroale)
