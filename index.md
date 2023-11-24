@@ -29,6 +29,12 @@ Esperamos hayan tenido unas buenas vacaciones porque esto está recién comenzan
 {% include note.html content="Este documento se originó cuando aún había malla vieja (generación 2012), por lo que hay ramos que ya no tienen el mismo profe, o comentarios que ya no aplican.<br/><br/>
 Link al [manual original][1]" %}
 
+{% include note.html content="Postpostdata, esto es un fork de un fork del manual original, el link del fork anterior que era del CEEINF está caído de hace un tiempo, así que decidimos resubirlo a este link. <br/><br/>
+Tenemos la idea de actualizarlo al año actual, pero no prometemos nada.<br/><br/>
+Link al [repositorio original][2]" %}
+
 [1]: https://docs.google.com/document/d/1ZORkRBDfVD3lYEzETasc74sJj7cdgy6oqHFKpqUJSgc/edit
+[2]: https://github.com/CEEINF-UTFSM/utfsm-survival-guide
 
 {% include links.html %}
+
