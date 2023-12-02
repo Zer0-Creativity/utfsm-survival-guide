@@ -13,13 +13,13 @@ Tenemos la intención de actualizarlo y agregarle algunas cosita. Cualquier come
 - [Estructura del Proyecto](#estructura-del-proyecto)
     - [Archivos](#Archivos)
 - [Como editar cosas pequeñas](#como-editar-cosas-pequenas)
-    - [Formato de Páginas](#formato-de-paginas)
+    - [Formato de Páginas](#formato-de-páginas)
 - [Como hacer cambios grandes y probarlos localmente](#como-hacer-cambios-grandes-y-probarlos-localmente)
     - [Setup y servidor local](#setup-y-servidor-local)
     - [Añadir una página nueva](#anadir-una-pagina-nueva)
     - [Añadir una sección nueva](#anadir-una-seccion-nueva)
 - [Agradecimientos](#agradecimientos)
-    - [Créditos](#creditos)
+    - [Créditos](#créditos)
 
 ## Estructura del Proyecto
 
@@ -91,7 +91,7 @@ Luego el terminal te dará un link donde podrás ver la página y tus cambios en
 
 ### Añadir una página nueva
 
-1. Cree un archivo `.md` dentro de `/pages` dentro de la carpeta correspondiente con el formato descrito en [Formato de Páginas](#formato-de-paginas).
+1. Cree un archivo `.md` dentro de `/pages` dentro de la carpeta correspondiente con el formato descrito en [Formato de Páginas](#formato-de-páginas).
 2. Para agregar la nueva página al menú de la izquierda vaya al archivo `_data/sidebars/main_sidebar.yml`.
 3. Dentro del archivo se encontrara un listado en forma de árbol del menú con el siguiente formato:
 

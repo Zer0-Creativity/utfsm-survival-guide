@@ -28,7 +28,18 @@ folder: semestre-2
 6. Métodos de las Ingeniería. Resolución de problemas, comprensión del problema, modelos, leyes de comportamiento, plan de solución, estructuración de la solución, diagramas de bloques, realización, comprobación. El informe técnico, presentaciones, herramientas de presentación.
 
 ## Comentarios 
+### 2023-2
+* Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django Django 
+* Las ayudantías no sirven.
+* En el proyecto grupal se te va a ir uno en mitad de camino.
+* Solo tienes que ir a clases por las revisiones.
+* NO HAGAN JUEGOS!!!! (HORRIBLE DIFICIL pero muy buenos (algunos)).
+* NO HAGAN FOROS!!! (Facil pero proyectos muy repetidos).
+* Github/ChatGPT copiar pegar.
+* Este es el ramo que te hace odiar los trabajos en grupo, sirve como filtro para saber con quien no hacer trabajos en toda la carrera.
+* Ayudante de intro ser como: Usa Bootstrap.
 
+### Pre-Pandemia
 * "Solo C, que nada C..."
 * "Mgrmgrmglrmgrlmgrlmglmmrlkmgrmrg estructura de datosdasdr" Albert 2015-2015
 * Oh god, matrices google D:

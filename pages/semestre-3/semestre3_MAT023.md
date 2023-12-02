@@ -35,6 +35,20 @@ La tercera es la vencida ahahahaha aaah aha AAAAAAAAAAAAAAAAAA :'D
 
 ## Comentarios de los alumnos:
 
+### 2023-2
+* Si es posible no tomen el ramo a primera hora.
+* Ir a las ayudantias, se sueltan paltas
+* Estudiar de certamenes pasados, lo normal es que se repita algun ejercicio.
+
+### 2023-1
+* Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar
+* La dificultad va de más a menos.
+* EDO es muy mecanico pero son muchos cambios de variable.
+* Mate 1 en 3D.
+* Tomar con Cifu si entiendes la materia rápido o tomar con Gonzalez si quieres la materia simplificada.
+* Valdebenito te extrañamos...
+
+### Pre-Pandemia
 - Como mate 1 pero agrégale d/d a todo: dx/dy, d²z/d²f, d²t/d²x, etc...
 
 - 3rd time's the charm...
