@@ -37,6 +37,7 @@ folder: semestre-2
 * NO HAGAN FOROS!!! (Facil pero proyectos muy repetidos).
 * Github/ChatGPT copiar pegar.
 * Este es el ramo que te hace odiar los trabajos en grupo, sirve como filtro para saber con quien no hacer trabajos en toda la carrera.
+* Ayudante de intro ser como: Usa Bootstrap.
 
 ### Pre-Pandemia
 * "Solo C, que nada C..."
