@@ -38,13 +38,19 @@ folder: semestre-4
 ## Comentarios de alumnos
 
 ### 2023-2
-* Talf se pone bueno en Turing
-* Los certamenes siguen siendo un rework de las tareas
-* Preparate para hacer circulos de transmutación
-* JFLAP de mierda
+* Talf se pone bueno en Turing.
+* Los certamenes siguen siendo un rework de las tareas.
+* Preparate para hacer circulos de transmutación.
+* JFLAP de mierda.
      * Unpopular opinion
 * Cuidado con la hormiga cyborg de Moreira
-* Si resuelves P vs NP pasas el ramo automaticamente
+     * Toda una gen odia una hormiga
+     * Hormiga de mierda
+* Si resuelves P vs NP pasas el ramo automaticamente.
+* Moreira no entrega nunca las notas.
+* Hubo un Certamen sin puntaje completo
+* Apretar y estirar
+* Bazinga!
 
 ### Pre-Pandemia
 
