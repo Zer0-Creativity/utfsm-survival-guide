@@ -36,6 +36,7 @@ folder: semestre-4
 * Dos diapositivas de 200 páginas cada una que estudiar para cada control.
 * Ese detalle que pensaste que nunca te lo preguntarían te lo pregunta, lee con mucho detalle las diapos.
 * Hacer las tareas con tiempo, no son de sentido común. (Cuidado con la entrega minima).
+* Carrea las 3 primeras tareas, ahora hay una condición que no te deja tener bajo 30 en ninguna de las 5.
 * Estudien de controles de semestres pasados.
 
 ## Comentarios de alumnos
