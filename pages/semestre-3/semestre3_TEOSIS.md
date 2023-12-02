@@ -48,7 +48,7 @@ Humanista disfrazado de ramo informático.
 * La profe no presta atención a las presentaciones, chamuyen.
 
 ### Pre-Pandemia
-- # Gloria a Camila Vallejos -ric 2013.
+-  **Gloria a Camila Vallejos -ric 2013.**
 
 - RIC CADA CLASE: EL BANCO CONCHETUMARE PIÑERA SE ROBÓ EL BANCO ENTERO WEON / COMPRANDO CONFORT LE ESTOY DANDO PLATA A LAS FAMILIAS MÁS RICAS DE CHILE CERDOS CAPITALISTAS.
 
