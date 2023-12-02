@@ -22,8 +22,9 @@ folder: semestre-4
 ## Contenidos
 
 * Lenguajes regulares
-* Lenguajes de libre contexto
+* Lenguajes de contexto libre
 * Máquinas de Turing
+* Complejidad computacional
 
 
 ## Consejos
@@ -35,6 +36,17 @@ folder: semestre-4
 
 
 ## Comentarios de alumnos
+
+### 2023-2
+* Talf se pone bueno en Turing
+* Los certamenes siguen siendo un rework de las tareas
+* Preparate para hacer circulos de transmutación
+* JFLAP de mierda
+     * Unpopular opinion
+* Cuidado con la hormiga cyborg de Moreira
+* Si resuelves P vs NP pasas el ramo automaticamente
+
+### Pre-Pandemia
 
 * Comic Sans
 * Aprender español q.s.a.e
