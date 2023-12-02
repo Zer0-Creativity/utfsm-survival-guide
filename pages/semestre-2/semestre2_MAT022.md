@@ -12,7 +12,7 @@ folder: semestre-2
 ## Información General 
 
 * Sigla: MAT-022
-* Nivel de dificultad según estudiantes: 7/10
+* Nivel de dificultad según estudiantes: 7/10, 9/10 si coordina Leonel
 * Créditos USM: 5
 * Créditos SCT: 7
 * Prerrequisitos: Mate 1
@@ -38,8 +38,18 @@ folder: semestre-2
 * E. KREYSZIG. “Matemáticas avanzadas para ingeniería. Volumen I y II”, Editorial Limusa, 1994. 
 * STEWART, J. “CÁLCULO”, Grupo Editorial Iberoamerica, 1994.
 
-## Comentarios 
+## Comentarios
 
+### 2023-2
+* Si su profesor es Gabriel Muñoz cambiese de paralelo de inmediato (mala experiencia personal).
+* Funciones hiperbolicas no sirven.
+* No se olviden del +C.
+* Den gracias que ya no se hacen certámenes en el ex auditorio, era un horno con como 100 personas adentro y en silla universitaria.
+
+### 2022-2 (INCIDENTE)
+* Auditorio de mierda.
+
+### Pre-Pandemia
 * There's no escape now.
 * Being meguca is suffering.
 * +C, no olvides el +C. Antes de empezar la prueba escribe +C en vez de tu nombre, así recordarás revisar si lo escribiste en el resto de las integrales. Escribe +C en todo. Ponle +C a tu vida (no confundir con C++, eso es para otro ramo).
