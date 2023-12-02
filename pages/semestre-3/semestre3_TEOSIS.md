@@ -45,6 +45,7 @@ Humanista disfrazado de ramo informático.
 * No ir a clases (requerimiento).
 * El ramo se pasa solo.
 * Nadie fue a clases, la profe se puso triste y cambio el certamen final a una tarea online.
+* La profe no presta atención a las presentaciones, chamuyen.
 
 ### Pre-Pandemia
 - # Gloria a Camila Vallejos -ric 2013.
