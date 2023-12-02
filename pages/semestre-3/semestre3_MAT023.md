@@ -44,6 +44,7 @@ La tercera es la vencida ahahahaha aaah aha AAAAAAAAAAAAAAAAAA :'D
 * Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar
 * La dificultad va de más a menos.
 * EDO es muy mecanico pero son muchos cambios de variable.
+* Mate 1 en 3D.
 * Valdebenito te extrañamos...
 
 ### Pre-Pandemia
