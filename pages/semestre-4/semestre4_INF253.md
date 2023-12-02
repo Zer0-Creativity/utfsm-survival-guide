@@ -33,12 +33,23 @@ folder: semestre-4
 
 ## Consejos
 
-* Estudiar para el control de LP durante discretas es el secreto
 * Dos diapositivas de 200 páginas cada una que estudiar para cada control.
 * Ese detalle que pensaste que nunca te lo preguntarían te lo pregunta, lee con mucho detalle las diapos.
-
+* Hacer las tareas con tiempo, no son de sentido común. (Cuidado con la entrega minima).
+* Estudien de controles de semestres pasados.
 
 ## Comentarios de alumnos
+
+### 2023-2
+* Ya no hay notas negativas pero si tienes una tarea bajo 30 te echas el ramo.
+* Tres formas distintas de echarte el ramo.
+* WTF is void***.
+* Scheme > Prolog.
+* No tomar el ramo junto a Bases de Datos.
+* Pikinims ©2023 USM.
+* Es posible pasar el ramo solo leyendo los PPT.
+
+### Pre-Pandemia
 
 * TODO DEPENDE DEL LENGUAJE
 * Imaginate a progra pero con 5 lenguajes diferentes en 4 paradigmas distintos y comprimido en 1 semestre. Comience el juego.
