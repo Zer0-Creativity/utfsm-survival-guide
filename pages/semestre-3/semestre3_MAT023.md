@@ -45,6 +45,7 @@ La tercera es la vencida ahahahaha aaah aha AAAAAAAAAAAAAAAAAA :'D
 * La dificultad va de más a menos.
 * EDO es muy mecanico pero son muchos cambios de variable.
 * Mate 1 en 3D.
+* Tomar con Cifu si entiendes la materia rápido o tomar con Gonzalez si quieres la materia simplificada.
 * Valdebenito te extrañamos...
 
 ### Pre-Pandemia
