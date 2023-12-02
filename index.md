@@ -13,8 +13,6 @@ toc: false
 
 # Introducción
 
-**[Encuesta Semestral del Manual!!!](https://forms.gle/t8hMZonTgnhRfHbs7)**
-
 El presente documento es un proyecto personal desarrollado en busca de orientar y abarcar la mayor cantidad de información posible acerca de la universidad. No tiene ninguna relación con centros de estudiantes ni entidades de la universidad, pues es una guía por alumnos y para alumnos, en donde se recopiló información y comentarios de forma manual <strike>a costa del sudor, lágrimas y otros fluidos de su creador</strike>. Es material no oficial, téngalo en cuenta.
 
 <div class="text-center mb-3">
