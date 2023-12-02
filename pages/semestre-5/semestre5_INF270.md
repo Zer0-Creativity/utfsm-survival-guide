@@ -10,7 +10,7 @@ folder: semestre-5
 
 ## Información General
 * Sigla: INF270
-* Nivel de dificultad según estudiantes: no c o si c pero no wa decir
+* Nivel de dificultad según estudiantes: 5/10 (No es muy dificil pero consume mucho tiempo)
 * Créditos USM: 3
 * Créditos SCT: 5
 * Prerrequisitos: Teoría de Sistemas (INF260)
@@ -43,6 +43,12 @@ folder: semestre-5
 
 
 ## Comentarios
+### 2023-2
+* ~~Se pasa sin ir a clase~~ Hay puntaje extra por asistencia.
+* No es dificil pero es pajero, requiere tiempo asi que no dejar para ultima instancia.
+* Asegurense de tener un grupo de trabajo que sepan que hacen las cosas.
+
+### Pre-Pandemia
 * No es feria
 * Si al cursar el ramo sientes que se parece a feria, leer el punto anterior.
 * En caso de aún creer que es como un mal plagio de feria favor reportar a la FIFA.
