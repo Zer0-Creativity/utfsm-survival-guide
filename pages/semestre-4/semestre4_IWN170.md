@@ -35,7 +35,13 @@ folder: semestre-4
 
 
 ## Comentarios de alumnos
+### 2023-2
+* NO TOMAR CON ANTONUCCI.
+     * 2 certamenes, cada uno vale 40% del ramo.
+* Se pasa haciendo las ayudantías.
+* ir a clases (opcional).
 
+### Pre-Pandemia
 * Se deja como supuesto que el ramo es fácil
 * Evitar a toda costa tomar el ramo con Alejando Sierras
 * Toma con Rodrigo Farias, carrea solo
