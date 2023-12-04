@@ -38,6 +38,7 @@ folder: semestre-4
 ### 2023-2
 * NO TOMAR CON ANTONUCCI.
      * 2 certamenes, cada uno vale 40% del ramo.
+     * Si muchos se están echando el ramo por la condición prom(certamenes) >= 50 el profe baja el requisito.
 * Se pasa haciendo las ayudantías.
 * ir a clases (opcional).
 
