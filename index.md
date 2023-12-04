@@ -31,6 +31,7 @@ Link al [manual original][1]" %}
 
 {% include note.html content="(23/11/2023) Postpostdata, esto es un fork de un fork del manual original, el link del fork anterior que era del CEEINF está caído de hace un tiempo, así que decidimos resubirlo a este link. <br/><br/>
 Tenemos la idea de actualizarlo al año actual, pero no prometemos nada.<br/><br/>
+(04/12/2023) Se han actualizado a fecha actual algunos ramos desde el semestre 1 al semestre 4.<br/><br/>
 Link al [repositorio original][2]" %}
 
 [1]: https://docs.google.com/document/d/1ZORkRBDfVD3lYEzETasc74sJj7cdgy6oqHFKpqUJSgc/edit
