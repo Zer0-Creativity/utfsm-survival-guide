@@ -71,6 +71,20 @@ folder: libres
 
 
 ## Comentarios
+### 2022-1
+* <p style = "font-family:Comic Sans MS, Comic Sans, cursive;">
+Con Piazze hay artes marciales en clases.
+   * <p style = "font-family:Comic Sans MS, Comic Sans, cursive;">
+   Pizze el mejor profe de etica.
+   
+* <p style = "font-family:Comic Sans MS, Comic Sans, cursive;">
+El ramo es una ventana de aire fresco (a comparacion de otros ramos).
+
+* <p style = "font-family:Comic Sans MS, Comic Sans, cursive;">
+Ilustrate.
+
+
+### Pre-Pandemia
 * <p style = "font-family:Comic Sans MS, Comic Sans, cursive;">
 Tomar clases con Piazze es un aventura sin retorno.
 
