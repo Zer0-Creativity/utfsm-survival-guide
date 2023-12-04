@@ -48,8 +48,9 @@ folder: semestre-4
      * Hormiga de mierda
 * Si resuelves P vs NP pasas el ramo automaticamente.
 * Moreira no entrega nunca las notas.
-* Hubo un Certamen sin puntaje completo
-* Apretar y estirar
+* Hubo un Certamen sin puntaje completo.
+* Si sueñas con maquinas de Turing es normal.
+* Apretar y estirar.
 * Bazinga!
 
 ### Pre-Pandemia
