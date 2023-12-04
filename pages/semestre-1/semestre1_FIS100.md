@@ -73,6 +73,16 @@ Método IDEA aka: Física for dummies.
 
 
 ## Comentarios de alumnos
+
+### 2022-1
+* Olvidese de la ecuacion de itinerario, aquí no hacemos eso.
+* Todos los calculos posibles se hacen a partir de gráficos.
+* Si no entiende como hacer los graficos, se salva con DCL.
+* Si no aprendes DCL ahora, en FIS-110 vas a empezar con hándicap.
+
+
+### Pre-Pandemia
+
 * "La profesora Lazcano no podrá hacer clases hoy debido a..."
 * La única cosa que sirve de este ramo son cifras significativas.
 * Se pasa solo.
