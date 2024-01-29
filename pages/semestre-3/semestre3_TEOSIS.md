@@ -40,7 +40,15 @@ Humanista disfrazado de ramo informático.
 
 ## Comentarios de los alumnos:
 
-- # Gloria a Camila Vallejos -ric 2013.
+### 2023-1
+* Todos los grupos tienen un integrante secreto llamado Gepeto.
+* No ir a clases (requerimiento).
+* El ramo se pasa solo.
+* Nadie fue a clases, la profe se puso triste y cambio el certamen final a una tarea online.
+* La profe no presta atención a las presentaciones, chamuyen.
+
+### Pre-Pandemia
+-  **Gloria a Camila Vallejos -ric 2013.**
 
 - RIC CADA CLASE: EL BANCO CONCHETUMARE PIÑERA SE ROBÓ EL BANCO ENTERO WEON / COMPRANDO CONFORT LE ESTOY DANDO PLATA A LAS FAMILIAS MÁS RICAS DE CHILE CERDOS CAPITALISTAS.
 
