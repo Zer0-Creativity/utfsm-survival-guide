@@ -19,19 +19,66 @@ folder: semestre-5
 
 
 ## Contenidos
+* Análisis Exploratorio de Datos (Tema 1) (No se evalúa)
 * Certamen 1:
-    * Análisis Exploratorio de Datos.
-    * Elementos de Teoría de Probabilidades.
-    * Variables Aleatorias Discretas.
-* Certamen2:
-    * Variables Aleatorias Continuas.
-    * Distribuciones de Probabilidad conjunta.
-    * Estimación Puntual.
-* Certamen3:
-    * Estimación Confidencial (Intervalos de Confianza).
-    * Contraste de Hipótesis.
-    * Regresión Lineal.
+    * Teoría de Probabilidades (Tema 2)
+    * Variable Aleatoria Discreta (Tema 3)
+* Certamen 2:
+    * Variable Aleatoria Continua (Tema 4)
+    * Variables Aleatorias Multivariadas (Tema 5)
+* Certamen 3:
+    * Estimación Puntual. (Tema 6)
+    * Estimación Confidencial. (Tema 7)
+* Certamen 4:
+    * Contrastes de Hipótesis. (Tema 8)
+    * Regresión Lineal (Tema 9)
 
+* Proyecto:
+    * Se desarrollan en equipos de 3 a 4 personas.
+    * "El proyecto tiene como objetivo generar una introducción a la búsqueda de información valiosa a través de los datos, aplicando los contenidos del curso y utilizando herramientas típicas de la ciencia de datos".
+    * Laboratorio 1:
+        * Analis exploratorio de datos y determinacion de variables de estudio sobre un dataset a eleccion.
+    * Laboratorio 2:
+        * Ajustar distribuciones discretas, continuas univariadas y bivariadas al set de datos estudiado.
+    * Laboratorio 3:
+        * Aplicar contrastes de hipótesis y análisis de intervalos de confianza sobre el set de datos.
+    * Todos los laboratorios cuentan con una presentación presencial sobre el trabajo realizado.
+
+## Cálculo de Notas y Condiciones de Aprobación
+
+- **Nota de Certamenes (NC)**:
+
+$$
+NC = \frac{{T2 + T3 + T4 + T5 + T6 + T7 + T8 + T9}}{8}
+$$
+
+- **Nota de Laboratorio (NL)**:
+
+$$
+NL = \frac{{L1 + L2 + \ldots + Ln}}{n}
+$$
+
+donde \(n\) es la cantidad de laboratorios.
+
+### Condiciones de Aprobación
+
+El curso se aprobará si y sólo si:
+
+$$
+NC \geq 55 \quad \text{y} \quad NL \geq 55
+$$
+
+En tal caso, la nota a registrar en las actas será:
+
+$$
+NF = 0.65 \cdot NC + 0.35 \cdot NL
+$$
+
+En el desafortunado caso de reprobación, la nota a registrar en las actas será:
+
+$$
+NF = \min(NC, NL)
+$$
 
 __OH BOI__
 ## Bibliografías
@@ -44,7 +91,7 @@ __OH BOI__
 
 # Registro histórico de notas:
 
-<img id="right-img" src="{{ site.baseurl }}/images/semestre-5/grafico_torta_estaca.jpg"> 
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-5/grafico_torta_estaca.jpg">
 
 - Año 2016:
     - 45 alumnos

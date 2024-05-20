@@ -4,6 +4,7 @@ keywords: sample homepage
 sidebar: main_sidebar
 permalink: index.html
 toc: false
+layout: default
 ---
 
  <div class="text-center">
@@ -26,16 +27,16 @@ Esperamos hayan tenido unas buenas vacaciones porque esto está recién comenzan
 	Bienvenidos sansanos y prepare your anus
 </div>
 
-{% include note.html content="Este documento se originó cuando aún había malla vieja (generación 2012), por lo que hay ramos que ya no tienen el mismo profe, o comentarios que ya no aplican.<br/><br/>
-Link al [manual original][1]" %}
+{% include note.html content="(19/05/2024) Se actualizaron ciertas entradas de ARQUI y ESTACA en el semestre 5" %}
 
 {% include note.html content="(23/11/2023) Postpostdata, esto es un fork de un fork del manual original, el link del fork anterior que era del CEEINF está caído de hace un tiempo, así que decidimos resubirlo a este link. <br/><br/>
 Tenemos la idea de actualizarlo al año actual, pero no prometemos nada.<br/><br/>
-(04/12/2023) Se han actualizado a fecha actual algunos ramos desde el semestre 1 al semestre 4.<br/><br/>
 Link al [repositorio original][2]" %}
+
+{% include note.html content="Este documento se originó cuando aún había malla vieja (generación 2012), por lo que hay ramos que ya no tienen el mismo profe, o comentarios que ya no aplican.<br/><br/>
+Link al [manual original][1]" %}
 
 [1]: https://docs.google.com/document/d/1ZORkRBDfVD3lYEzETasc74sJj7cdgy6oqHFKpqUJSgc/edit
 [2]: https://github.com/CEEINF-UTFSM/utfsm-survival-guide
 
 {% include links.html %}
-
