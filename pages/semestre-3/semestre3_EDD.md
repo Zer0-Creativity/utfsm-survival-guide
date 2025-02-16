@@ -32,6 +32,12 @@ folder: semestre-3
 
 ## Comentarios
 
+### 2023-1
+
+- carmona un grande
+- wtf is a pointer
+- yo C++
+
 ### Pre-pandemia
 
 - "Mi libro ,*Tutorial de C*, ya está disponible en campus San Joaquín, Vitacura, Valparaíso y Guayaquil... **C** ...que te va a encantar..."

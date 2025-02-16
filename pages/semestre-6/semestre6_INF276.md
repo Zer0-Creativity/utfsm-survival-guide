@@ -31,6 +31,13 @@ folder: semestre-6
 
 ## Comentarios
 
+### 2024-2
+
+- el profe es super chill y tela, y sabe caleta, si no fuera por que la materia es super zzz
+- ética 3 o 4, ya no se en cual vamos
+- el proyecto es teórico, no tiene que hacerlo de verdad
+- el profe habla en tercera persona
+
 ### Pre-pandemia
 
 - Codocedo es bakan :3

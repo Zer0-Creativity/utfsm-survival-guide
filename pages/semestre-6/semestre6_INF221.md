@@ -24,6 +24,15 @@ folder: semestre-6
 
 ## Comentarios‌
 
+### 2024-2
+
+- Hay 2 tipos de personas, las que aman a asín y las que odian a asín.
+- Asín hizo solo 2 certámenes, y el segundo era una competencia de progra que para pasar tenias que hacer 2 ejercicios en 4 horas, la gente estaba desesperada en las salas.
+- algoritmos y complejidad -> algoco -> algocos -> algococos -> algo en los cocos -> algo loco en los cocos.
+- no c++
+- all my homies are superlineales
+- Asín: (se apoya en el escritorio) "en toda mi carrera no había visto algo así, este no es el nivel de un alumno de tercer año"
+
 ### Pre-pandemia
 
 - Big‌ ‌O, ‌Theta, ‌Omega‌ ‌

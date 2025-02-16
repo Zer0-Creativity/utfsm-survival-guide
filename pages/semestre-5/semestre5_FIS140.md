@@ -38,6 +38,14 @@ folder: semestre-5
 
 ## Comentarios
 
+### 2024-1
+
+- el ramo lo modifican cada semestre
+- literal el ramo se pasa solo, hay tantas weas bonus que te boostean la nota, y más encima el eta del lab aplica antes de la nota final
+- FINALMENTE ULTIMO LAB DE FÍSICA CTMMM
+- gomez un grande
+- el último certamen sobraba
+
 ### Pre-pandemia
 
 - **(2018-1): la física más fácil de la vida decían, se pasa solo decían**

@@ -29,6 +29,12 @@ folder: semestre-1
 
 ## Comentarios
 
+### 2022-1
+
+- literal ed física del colegio
+- vaya con ropa deportiva
+- no falte que es con asistencia
+
 ### Pre-pandemia
 
 - Vitagliano >\>>\> ALL. Es tan OP que hasta salió en una [película][1]

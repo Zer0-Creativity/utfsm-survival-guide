@@ -41,6 +41,11 @@ La ayudantía en laboratorio es la instancia para llevar a cabo el "aprender - h
 
 ## Comentarios
 
+### 2022-1
+
+- si ya sabe programar, no es necesario que vaya a clases
+- si no sabe programar, vaya a clases que es la base de toda la carrera
+
 ### Pre-pandemia
 
 - Print "Hola Mundo"

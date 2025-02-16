@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: Manual Edición
-  version: 2023-2 (Work in progress) 
+  version: 2024-2 (Work in progress)
   folders:
 
   - title: Sección Principal
@@ -36,7 +36,7 @@ entries:
         - title: Easter Eggs
           url: /easter_eggs.html
           output: web
-          
+
     - title: Cómo Aportar Al Sitio
       url: /como_aportar.html
       output: web, pdf
@@ -70,7 +70,7 @@ entries:
         - title: Física 100
           url: /semestre1_FIS100.html
           output: web
-          
+
       - title: Semestre 2
         output: web
         subfolderitems:
@@ -94,7 +94,7 @@ entries:
         - title: Química Y Sociedad
           url: /semestre2_QUI010.html
           output: web
-            
+
       - title: Semestre 3
         output: web
         subfolderitems:
@@ -118,7 +118,7 @@ entries:
         - title: Física General III
           url: /semestre3_FIS130.html
           output: web
-            
+
       - title: Semestre 4
         output: web
         subfolderitems:
@@ -142,7 +142,7 @@ entries:
         - title: Física 120
           url: /semestre4_FIS120.html
           output: web
-      
+
       - title: Semestre 5
         output: web
         subfolderitems:
@@ -162,7 +162,7 @@ entries:
         - title: Estadística Computacional
           url: /semestre5_INF280.html
           output: web
-        
+
         - title: Organizaciones y Sistemas de Información
           url: /semestre5_INF270.html
           output: web
@@ -190,7 +190,7 @@ entries:
         - title: Sistemas‌ ‌Operativos‌
           url: /semestre6_INF246.html
           output: web
-          
+
       - title: Semestre 7
         output: web
         subfolderitems:
@@ -214,7 +214,7 @@ entries:
         - title: Investigación de Operaciones
           url: /semestre7_INF293.html
           output: web
-      
+
       - title: Semestre 8
         output: web
         subfolderitems:
@@ -231,7 +231,7 @@ entries:
           url: /semestre8_INF295.html
           output: web
 
-        - title: Sistemas de Gestión 
+        - title: Sistemas de Gestión
           url: /semestre8_INF266.html
           output: web
 
@@ -241,7 +241,7 @@ entries:
         - title: Gestión de Proyectos de Informatica
           url: /semestre9_GESTIP.html
           output: web
-            
+
       - title: Semestre 10 + 1
         output: web
         subfolderitems:

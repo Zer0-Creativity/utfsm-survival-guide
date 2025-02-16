@@ -56,6 +56,10 @@ folder: semestre-1
 
 ## Comentarios
 
+### 2022-1
+
+- los profes eran los ayudantes, ya que por la pandemia no quedaban
+
 ### Pre-pandemia
 
 - Tarde o temprano llegarás a un video de [Unicoos][6] en YouTube, amarás al profe y escucharás comentarios como "le doy mil hijos" #NosVemosEnClases. Unicoos is love, unicoos is life.

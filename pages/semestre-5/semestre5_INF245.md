@@ -76,6 +76,15 @@ De las 29 personas que tuvieron fé y entregaron, solo 7 lograron pasar, siendo 
 
 ## Comentarios
 
+### 2024-1
+
+- flip flop sam
+- incidente c2
+- VIKTOR TAPIAAAAAAA
+- que mac me compro? este de un palo 100 con más núcleos o este de un palo 200 con más ram???
+- yo tengo mucha plata
+- el profe solo trabaja, no tiene tiempo libre, profe si lee esto déjese un tiempo libre xfavor, es por su salud mental
+
 ### Pre-pandemia
 
 - Si no llega a tu sala un profe canoso con lentes (coco legrand pascuense) y un café en la mano, te equivocaste de sala.

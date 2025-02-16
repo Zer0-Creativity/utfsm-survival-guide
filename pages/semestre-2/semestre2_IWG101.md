@@ -15,7 +15,7 @@ folder: semestre-2
 - Pre-requisitos: Técnicamente ninguno, pero si se echaron Progra se van a tener que esforzar más.
 - Semestre en que se dicta: Par
 
-## CONTENIDOS
+## Contenidos
 
 1. Definición de la Ingeniería. Evolución histórica. Concepto intuitivo. Alcances de la definición.
 2. Ingeniería y Sociedad. Concepto de la profesión. Función social de la Ingeniería. Código de ética profesional. Ética del estudiante de Ingeniería. Desafíos actuales. Problemas mundiales. Regionales, en el nivel nacional y local. Desafío del desarrollo sustentable.
@@ -37,6 +37,13 @@ folder: semestre-2
 - Github/ChatGPT copiar pegar.
 - Este es el ramo que te hace odiar los trabajos en grupo, sirve como filtro para saber con quien no hacer trabajos en toda la carrera.
 - Ayudante de intro ser como: Usa Bootstrap.
+
+### 2022-2
+
+- ni se le ocurra hacer una página que recopile ejercicios y tareas, el profe está chato de esa idea
+- y cuando sale sansanews???
+- hay gente muy tryhard
+- cuidado con las peleas dentro del grupo...
 
 ### Pre-pandemia
 

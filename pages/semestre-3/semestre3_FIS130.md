@@ -30,6 +30,13 @@ folder: semestre-3
 
 ## Comentarios
 
+### 2023-1
+
+- nadie sabe porque después de física 1 viene física 3
+- todos los profes son buenos, pero el coordinador se tira paltas en sus clases
+
+### Pre-pandemia
+
 - Patear >>>>>> ALL.
 - Si no lo pateaste, tómalo con Duarte <3.
 - En Vitacura es más fácil, si puedes toma el ramo allá.

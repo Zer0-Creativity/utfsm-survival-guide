@@ -47,6 +47,9 @@ folder: semestre-2
 ### 2022-2 (INCIDENTE)
 
 - Auditorio de mierda.
+- Tuvieron que hacer clases de verano de tanta gente que se echó el ramo
+- más del 80% de la gente se echó el ramo originalmente...
+- no se habla de mate 2
 
 ### Pre-pandemia
 

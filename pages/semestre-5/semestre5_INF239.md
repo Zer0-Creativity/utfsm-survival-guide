@@ -31,6 +31,15 @@ folder: semestre-5
 
 ## Comentarios
 
+### 2024-1
+
+- NO DEJEN LAS TAREAS A ULTIMA HORA ESTÁN ADVERTIDOS
+- lo que pasa en las clases de olivarria se queda en las clases de olivarria
+- olivarria un grande
+- NO TOMAR CON SALAS
+- en las presentaciones del proyecto tienes que atacar a los que están presentando, es parte de la nota
+- destrozaron muchos grupos en las presentaciones...
+
 ### Pre-pandemia
 
 - "a mí me rajó, pero justamente xd"

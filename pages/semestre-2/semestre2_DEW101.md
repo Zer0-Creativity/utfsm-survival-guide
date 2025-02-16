@@ -22,6 +22,13 @@ folder: semestre-2
 
 ## Comentarios
 
+### 2022-2
+
+- es literal educación física del colegio
+- al final del semestre siempre se hacen acropilates
+- si ve a gente en el gimnasio haciendo cosas raras se llama acropilates
+- vaya a clases, hay asistencia
+
 ### Pre-pandemia
 
 - Último rastro de infancia.

@@ -43,6 +43,12 @@ folder: semestre-5
 
 ## Comentarios
 
+### 2024-1
+
+- OSI Y LA CTM
+- no se de donde sale la última S de OSIS
+- realmente no es necesario ir a clases, vayan solo a los certámenes que más encima son en el aula, el amigo gepeto siempre ayuda.
+
 ### 2023-2
 
 - ~~Se pasa sin ir a clase~~ Hay puntaje extra por asistencia.

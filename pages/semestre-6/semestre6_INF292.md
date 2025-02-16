@@ -27,6 +27,16 @@ folder: semestre-6
 
 ## Comentarios
 
+### 2024-2
+
+- optimizzzación
+- ramo tuto
+- se pasa solo
+- no vale la pena ir a clases porque está exactamente lo mismo en los videos del aula
+- esto se pasa haciendo todos los ejercicios posibles
+- el proyecto está super mal explicado, estuve confundido hasta el último mes
+- se pasa copiando descaradamente
+
 ### Pre-pandemia
 
 - Estudiando de los certámenes anteriores se puede pasar.

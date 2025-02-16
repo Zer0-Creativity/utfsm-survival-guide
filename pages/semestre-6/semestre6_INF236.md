@@ -26,6 +26,17 @@ folder: semestre-6
 
 ## Comentarios
 
+### 2024-2
+
+- SALAS Y LA RECTM AAAAAAAAAAAAAAAAAAAA
+- NO TOMEN CON SALAS ESTÁN ADVERTIDOS
+- en el primer certamen salas estaba terrible enojado con todo el mundo, y alguien tenia una alarma sonando como por 15 minutos, y salas estaba desesperado
+- en el segundo certamen el paralelo de salas tuvo una hora menos para dar el certamen, y luego dijo que como no habían diferencias significativas entre las notas no había compensación, SALAAAAAAAAAAAAAAAS.
+- se habla con un cliente real, aunque solo lo ven una vez xd.
+- en esta ocasión el proyecto era hacer una página para el gobierno en el area de agricultura que automatizara la compilación de noticias y la generación de boletines, con IA...
+- ponganle IA porque es lo que está de moda, en eso se resume el proyecto
+- no vale la pena ir a las clases, se lee el ppt y estas listo para los certámenes
+
 ### Pre-pandemia
 
 - Fácil, pero odiarán el proyecto semestral :(

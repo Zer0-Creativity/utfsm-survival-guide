@@ -28,6 +28,12 @@ folder: semestre-6
 
 ## Comentarios
 
+### 2024-2
+
+- viktor tapia yo confiaba en ti...
+- la dificultad del certamen se puede predecir cachando el estado emocional en que se encuentra el profe con los eventos de la semana previa.
+- all my homies hate S.A.M
+
 ### Pre-pandemia
 
 - CAPAS!! CAPAS!! Las cebollas tienen capas, los ogros también y los SOs

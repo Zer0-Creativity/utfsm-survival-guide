@@ -106,6 +106,14 @@ $$
 
 ## Comentarios
 
+### 2024-1
+
+- hay como 20 mil certámenes
+- vayan a clases, se van a perder demasiado si no van
+- el profe es europeo
+- lleven impresas las formulas, no se olviden, les va a costar la prueba
+- yo y los kbros llegando con 50 hojas impresas al certamen de las que vamos a ocupar 2
+
 ### Pre-pandemia
 
 - Si tienes una duda el ayudante puede ayudarte... o puede no estar. Saber si lo encontrarás es parte del ejercicio estadístico (_encuentre el estimador del tiempo para encontrar al ayudante_). _"HU3HU3HU3" -Un ex-ayudante_

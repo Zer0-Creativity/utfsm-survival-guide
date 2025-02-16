@@ -74,6 +74,8 @@ folder: semestre-1
 - Todos los cálculos posibles se hacen a partir de gráficos.
 - Si no entiende como hacer los gráficos, se salva con DCL.
 - Si no aprendes DCL ahora, en FIS-110 vas a empezar con hándicap.
+- las primeras clases se hacen volar aviones de papel
+- mis cojones
 
 ### Pre-Pandemia
 

@@ -34,6 +34,11 @@ folder: semestre-2
 
 ## Comentarios
 
+### 2022-2
+
+- las pruebas son con alternativas, se pasa copiando
+- es literal química del colegio
+
 ### Pre-pandemia
 
 - Resumen de Romero: Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes Jóvenes J̸ó̴v̸e̸n̵e̶s̴  J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴  J̸ó̴v̸e̸n̵e̶s̴  J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴  ó̴v̸e̸n̵e̶s̴  J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴  J̸ó̴v̸e̸n̵e̶s̴  J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴  ó̴v̸e̸n̵e̶s̴  J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸ó̴v̸e̸n̵e̶s̴ J̸̳͕̑̿ͅó̷̳͎̄̀̚ṽ̶͕͋̋e̸̲̯͗̍ṉ̶͝e̵̩͖̓͊̆͜s̵̢̼͘ J̸̳͕̑̿ͅó̷̳͎̄̀̚ṽ̶͕͋̋e̸̲̯͗̍ṉ̶͝e̵̩͖̓͊̆͜s̵̢̼͘ J̸̳͕̑̿ͅó̷̳͎̄̀̚ṽ̶͕͋̋e̸̲̯͗̍ṉ̶͝e̵̩͖̓͊̆͜s̵̢̼͘ J̷̢̨̛͈̯͎̻̣̪̝̫͙̺̙̬̤̼͔͗͒̓͒̎͑̔̅̍̓̐̾͑̈̽̈́̚͠ǫ̷̡̧̢̡̧̖͔̟͍̫̹̩̻͖̥̟́̌̃̏̀͒̇͊̍͗̍̄̅ͅͅv̶̨͖̳̦͇͈̩͎̠̖̅̅͊̿͐̈́͂̈͑̈͒͊̕̚e̷̬̻̺͉̗̩͋̚̚ņ̷̛̝̹̘̳̥̺̥̤̺͕̙̰̣̣͇̀̃̀̽̋̑̀͊́̽̓͌̊͘͘è̸͚̮̏̒̈́̎̓̽̎̉͋ŝ̵̡̘̝̘̠̣͔̠̦̠̦͑̆̾̌̔͌́͂̌͝ J̷̢̨̛͈̯͎̻̣̪̝̫͙̺̙̬̤̼͔͗͒̓͒̎͑̔̅̍̓̐̾͑̈̽̈́̚͠ǫ̷̡̧̢̡̧̖͔̟͍̫̹̩̻͖̥̟́̌̃̏̀͒̇͊̍͗̍̄̅ͅͅv̶̨͖̳̦͇͈̩͎̠̖̅̅͊̿͐̈́͂̈͑̈͒͊̕̚e̷̬̻̺͉̗̩͋̚̚ņ̷̛̝̹̘̳̥̺̥̤̺͕̙̰̣̣͇̀̃̀̽̋̑̀͊́̽̓͌̊͘͘è̸͚̮̏̒̈́̎̓̽̎̉͋ŝ̵̡̘̝̘̠̣͑̆̾̌̔͌́͂̌͝

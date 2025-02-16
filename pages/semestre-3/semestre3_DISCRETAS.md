@@ -30,6 +30,13 @@ folder: semestre-3
 
 ## Comentarios
 
+### 2023-1
+
+- imagina un virus que recorre una red de computadores...
+- 1 pregunta vale el 60%
+- claudio locos o profesor wolves?
+- el profe comparte su tren mental quieras o no
+
 ### Pre-pandemia
 
 - Teorema de sistemas: Mientras más compañeros tengan la misma respuesta, más incrementa la probabilidad de que todos la tengan mala.
