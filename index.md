@@ -7,8 +7,8 @@ layout: default
 ---
 
 <div class="text-center">
-	<img src="images/manual_logo.png" alt="Y aquí pondría mi logo SI TUVIERA UNO" width="400px" height="auto" style="margin-left:10%;">
-	<h2>Manual de supervivencia para informáticos USM</h2>
+ <img src="images/manual_logo.png" alt="Y aquí pondría mi logo SI TUVIERA UNO" width="400px" height="auto" style="margin-left:10%;">
+ <h2>Manual de supervivencia para informáticos USM</h2>
 </div>
 
 # Introducción
@@ -26,14 +26,76 @@ Esperamos hayan tenido unas buenas vacaciones porque esto está recién comenzan
  Bienvenidos sansanos y prepare your anus
 </div>
 
-{% include note.html content="(23/11/2023) Post-postdata, esto es un fork de un fork del manual original, el link del fork anterior que era del CEEINF está caído de hace un tiempo, así que decidimos re-subirlo a este link. <br/><br/>
-Tenemos la idea de actualizarlo al año actual, pero no prometemos nada.<br/><br/>
-Link al [repositorio original][2]" %}
+## Malla Nueva
 
-{% include note.html content="Este documento se originó cuando aún había malla vieja (generación 2012), por lo que hay ramos que ya no tienen el mismo profe, o comentarios que ya no aplican.<br/><br/>
-Link al [manual original][1]" %}
+El manual está hecho con la malla vieja que aplica para todos los alumnos ingresados hasta el 2024, se está trabajando en un rework del manual desde 0 para acomodar ambas mallas, pero por ahora dejamos una lista de paralelismos entre los ramos viejos y los nuevos para que los nuevos sansanos puedan ocupar el manual.
 
-[1]: https://docs.google.com/document/d/1ZORkRBDfVD3lYEzETasc74sJj7cdgy6oqHFKpqUJSgc/edit
-[2]: https://github.com/CEEINF-UTFSM/utfsm-survival-guide
+- Semestre 1
+  - [Introducción a la Programación]({{ site.baseurl }}/IWI-131.html)
+  - [Algebra y Geometría]({{ site.baseurl }}/MAT-021.html)
+  - [Introducción al Cálculo]({{ site.baseurl }}/MAT-021.html)
+  - [Introducción a la Física]({{ site.baseurl }}/FIS-100.html)
+  - Comunicación efectiva en español / Ingles I
+  - [Educación Física I]({{ site.baseurl }}/EFI-100.html)
+- Semestre 2
+  - [Proyecto Inicial]({{ site.baseurl }}/IWG-101.html)
+  - [Algebra Lineal]({{ site.baseurl }}/MAT-022.html)
+  - [Cálculo en una Variable]({{ site.baseurl }}/MAT-022.html)
+  - [Física General Mecánica]({{ site.baseurl }}/FIS-110.html)
+  - Comunicación efectiva en español / Ingles II
+  - [Educación Física II]({{ site.baseurl }}/EFI-101.html)
+- Semestre 3
+  - Programación Avanzada
+  - [Matemática Discreta]({{ site.baseurl }}/INF-152.html)
+  - [Cálculo en Varias Variable]({{ site.baseurl }}/MAT-024.html)
+  - [Calor y Ondas]({{ site.baseurl }}/FIS-130.html)
+  - Análisis Crítico de Texto
+  - Administración y Sostenibilidad Organizacional
+- Semestre 4
+  - [Estructuras de Datos]({{ site.baseurl }}/INF-134.html)
+  - [Estadística Computacional]({{ site.baseurl }}/INF-280.html)
+  - [Ecuaciones Diferenciales Elementales]({{ site.baseurl }}/MAT-023.html)
+  - [Electricidad y Magnetismo]({{ site.baseurl }}/FIS-120.html)
+  - Comunicación efectiva en español / Ingles III
+  - [Ingeniería Económica]({{ site.baseurl }}/ICS-733.html)
+- Semestre 5
+  - [Bases de Datos]({{ site.baseurl }}/INF-239.html)
+  - [Optimización]({{ site.baseurl }}/INF-292.html)
+  - [Arquitectura y Organización de Computadores]({{ site.baseurl }}/INF-245.html)
+  - [Paradigmas de Programación]({{ site.baseurl }}/INF-253.html)
+  - [Ingeniería, Informática y Sociedad]({{ site.baseurl }}/INF-276.html)
+  - [Teoría de Autómatas y Lenguajes Formales]({{ site.baseurl }}/INF-155.html)
+- Semestre 6
+  - Comunicación efectiva en español / Ingles IV
+  - [Algoritmos y Complejidad]({{ site.baseurl }}/INF-221.html)
+  - [Sistemas Operativos]({{ site.baseurl }}/INF-246.html)
+  - [Análisis y Diseño de Software]({{ site.baseurl }}/INF-236.html)
+  - [Computación Científica]({{ site.baseurl }}/INF-285.html)
+  - [Investigación y Operaciones]({{ site.baseurl }}/INF-293.html)
+- Semestre 7
+  - Inglés Disciplinar
+  - [Teoría de Sistemas]({{ site.baseurl }}/INF-260.html)
+  - [Redes y Ciberseguridad]({{ site.baseurl }}/INF-256.html)
+  - [Ingeniería de Software]({{ site.baseurl }}/INF-225.html)
+  - [Inteligencia Artificial I]({{ site.baseurl }}/INF-295.html)
+  - Fundamentos de Ciencias de Datos
+- Semestre 8
+  - Electivo
+  - Proyecto de Ingeniería
+  - [Sistemas Distribuidos]({{ site.baseurl }}/INF-343.html)
+  - [Diseño de Experiencia Usuaria]({{ site.baseurl }}/INF-322.html)
+  - [Sistemas para la Gestión Organizacional]({{ site.baseurl }}/INF-266.html)
+  - [Inteligencia Artificial II]({{ site.baseurl }}/INF-295.html)
+- Semestre 9
+  - Electivo
+  - [Gestión de Proyectos de Informática]({{ site.baseurl }}/INF-360.html)
+  - Electivo Disciplinar
+  - Electivo Disciplinar
+  - Electivo Disciplinar
+- Semestre 10
+  - [Taller de Desarrollo de Proyectos de Informática]({{ site.baseurl }}/INF-288.html)
+  - Taller Complementario de Titulación
+  - Electivo Disciplinar
+  - Electivo Disciplinar
 
 {% include links.html %}
