@@ -11,6 +11,7 @@ toc: false
 - Se creo la página de changelog para documentar los cambios hechos al manual.
 - Se añadieron links para los pre-requisitos.
 - Se mapeo los ramos de la malla nueva a los ramos que existen en el manual
+- Se creo un nuevo campo en las asignaturas que muestra que pasa con ellas en la nueva malla.
 
 ## 19/05/2024
 

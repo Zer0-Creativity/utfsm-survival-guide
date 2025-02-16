@@ -71,7 +71,7 @@ El manual está hecho con la malla vieja que aplica para todos los alumnos ingre
   - [Sistemas Operativos]({{ site.baseurl }}/INF-246.html)
   - [Análisis y Diseño de Software]({{ site.baseurl }}/INF-236.html)
   - [Computación Científica]({{ site.baseurl }}/INF-285.html)
-  - [Investigación y Operaciones]({{ site.baseurl }}/INF-293.html)
+  - [Investigación de Operaciones]({{ site.baseurl }}/INF-293.html)
 - Semestre 7
   - Inglés Disciplinar
   - [Teoría de Sistemas]({{ site.baseurl }}/INF-260.html)
