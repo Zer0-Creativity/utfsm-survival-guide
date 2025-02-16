@@ -17,7 +17,6 @@ toc: false
 
 - Se actualizaron ciertas entradas de ARQUI y ESTACA en el semestre 5
 
-
 ## 23/11/2023
 
 Post-postdata, esto es un fork de un fork del manual original, el link del fork anterior que era del CEEINF está caído de hace un tiempo, así que decidimos re-subirlo a este link.
