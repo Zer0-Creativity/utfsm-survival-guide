@@ -1,283 +1,273 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: sidebar
-  product: Manual Edición
-  version: 2024-2 (Work in progress)
-  folders:
+  - title: sidebar
+    product: Manual Edición
+    version: 2024-2 (Work in progress)
+    folders:
+      - title: Sección Principal
+        output: web, pdf
+        folderitems:
+          - title: Introducción
+            url: /index.html
+            output: web, pdf
+            type: homepage
 
-  - title: Sección Principal
-    output: web, pdf
-    folderitems:
+            subfolders:
+              - title: Acerca de la Universidad
+                output: web
 
-    - title: Introducción
-      url: /index.html
-      output: web, pdf
-      type: homepage
+                subfolderitems:
+                  - title: Información Básica
+                    url: /info_basica.html
+                    output: web
 
-      subfolders:
-      - title: Acerca de la Universidad
+                  - title: Preguntas Frecuentes
+                    url: /preguntas.html
+                    output: web
+
+                  - title: Links de interés
+                    url: /links.html
+                    output: web
+
+                  - title: Easter Eggs
+                    url: /easter_eggs.html
+                    output: web
+
+          - title: Cómo Aportar Al Sitio
+            url: /como_aportar.html
+            output: web, pdf
+
+          - title: Changelog
+            url: /changelog.html
+            output: web, pdf
+
+      # Para agregar asignaturas, solo debes agregar el título y el nombre del archivo aquí. En caso de estar en una carpeta (como semestre-1) esto va indicado dentro del archivo.md, no aquí
+      - title: Asignaturas
         output: web
-
-        subfolderitems:
-
-        - title: Información Básica
-          url: /info_basica.html
-          output: web
-
-        - title: Preguntas Frecuentes
-          url: /preguntas.html
-          output: web
-
-        - title: Links de interés
-          url: /links.html
-          output: web
-
-        - title: Easter Eggs
-          url: /easter_eggs.html
-          output: web
-
-    - title: Cómo Aportar Al Sitio
-      url: /como_aportar.html
-      output: web, pdf
-
-# Para agregar asignaturas, solo debes agregar el título y el nombre del archivo aquí. En caso de estar en una carpeta (como semestre-1) esto va indicado dentro del archivo.md, no aquí
-  - title: Asignaturas
-    output: web
-    folderitems:
-
-    - title: Come To CS
-      url: /come_to_cs.html
-      output: web, pdf
-
-      subfolders:
-      - title: Semestre 1
-        output: web
-        subfolderitems:
-
-        - title: Matemática I
-          url: /semestre1_MAT021.html
-          output: web
-
-        - title: Programación
-          url: /semestre1_IWI131.html
-          output: web
-
-        - title: Ed. Física I
-          url: /semestre1_EFI100.html
-          output: web
-
-        - title: Física 100
-          url: /semestre1_FIS100.html
-          output: web
-
-      - title: Semestre 2
-        output: web
-        subfolderitems:
-
-        - title: Ed. Física II
-          url: /semestre2_DEW101.html
-          output: web
-
-        - title: Física General I
-          url: /semestre2_FIS110.html
-          output: web
-
-        - title: Introducción a La Ingeniería
-          url: /semestre2_IWG101.html
-          output: web
-
-        - title: Matemática II
-          url: /semestre2_MAT022.html
-          output: web
-
-        - title: Química Y Sociedad
-          url: /semestre2_QUI010.html
-          output: web
-
-      - title: Semestre 3
-        output: web
-        subfolderitems:
-
-        - title: Estructuras de datos
-          url: /semestre3_EDD.html
-          output: web
-
-        - title: Estructuras Discretas
-          url: /semestre3_EDIS.html
-          output: web
-
-        - title: Matemática III
-          url: /semestre3_MAT023.html
-          output: web
-
-        - title: Teoría de Sistemas
-          url: /semestre3_TEOSIS.html
-          output: web
-
-        - title: Física General III
-          url: /semestre3_FIS130.html
-          output: web
-
-      - title: Semestre 4
-        output: web
-        subfolderitems:
-
-        - title: Matemática IV
-          url: /semestre4_MAT024.html
-          output: web
-
-        - title: Informática Teórica
-          url: /semestre4_INF155.html
-          output: web
-
-        - title: Lenguajes de Programación
-          url: /semestre4_INF253.html
-          output: web
-
-        - title: Economía I-A
-          url: /semestre4_IWN170.html
-          output: web
-
-        - title: Física 120
-          url: /semestre4_FIS120.html
-          output: web
-
-      - title: Semestre 5
-        output: web
-        subfolderitems:
-
-        - title: Bases de Datos
-          url: /semestre5_INF239.html
-          output: web
-
-        - title: Arquitectura y Organización de Computadores
-          url: /semestre5_INF245.html
-          output: web
-
-        - title: Física 140
-          url: /semestre5_FIS140.html
-          output: web
-
-        - title: Estadística Computacional
-          url: /semestre5_INF280.html
-          output: web
-
-        - title: Organizaciones y Sistemas de Información
-          url: /semestre5_INF270.html
-          output: web
-
-      - title: Semestre 6
-        output: web
-        subfolderitems:
-
-        - title: Análisis y Diseño de Software
-          url: /semestre6_INF236.html
-          output: web
-
-        - title: Algoritmos‌ ‌y‌ ‌Complejidad‌
-          url: /semestre6_INF221.html
-          output: web
-
-        - title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad
-          url: /semestre6_INF276.html
-          output: web
-
-        - title: Optimización
-          url: /semestre6_INF292.html
-          output: web
-
-        - title: Sistemas‌ ‌Operativos‌
-          url: /semestre6_INF246.html
-          output: web
-
-      - title: Semestre 7
-        output: web
-        subfolderitems:
-
-        - title: Ingeniería de Software
-          url: /semestre7_INF225.html
-          output: web
-
-        - title: Redes de computadores
-          url: /semestre7_INF256.html
-          output: web
-
-        - title: Información y Matemáticas Financieras
-          url: /semestre7_ICN270.html
-          output: web
-
-        - title: Computación Científica
-          url: /semestre7_INF285.html
-          output: web
-
-        - title: Investigación de Operaciones
-          url: /semestre7_INF293.html
-          output: web
-
-      - title: Semestre 8
-        output: web
-        subfolderitems:
-
-        - title: Diseño de Interfaces Usuarias
-          url: /semestre8_INF322.html
-          output: web
-
-        - title: Sistemas Distribuidos
-          url: /semestre8_INF343.html
-          output: web
-
-        - title: Inteligencia Artificial
-          url: /semestre8_INF295.html
-          output: web
-
-        - title: Sistemas de Gestión
-          url: /semestre8_INF266.html
-          output: web
-
-      - title: Semestre 9
-        output: web
-        subfolderitems:
-        - title: Gestión de Proyectos de Informatica
-          url: /semestre9_GESTIP.html
-          output: web
-
-      - title: Semestre 10 + 1
-        output: web
-        subfolderitems:
-
-        - title: Taller Desarrollo de Proyecto de Informática
-          url: /semestre10_INF228.html
-          output: web
-
-        - title: Trabajo de Título I
-          url: /semestre10_INF309.html
-          output: web
-
-        - title: Trabajo de Título II
-          url: /semestre10_INF310.html
-          output: web
-
-      - title: Libres
-        output: web
-        subfolderitems:
-
-        - title: Crecimiento y Desarrollo Personal
-          url: /Libres_HRW104.html
-          output: web
-
-        - title: Ética
-          url: /Libres_HRW130.html
-          output: web
-
-        - title: Expresión oral y escrita
-          url: /Libres_HFW144.html
-          output: web
-
-        - title: Formación y liderazgo empresarial
-          url: /Libres_HRW131.html
-          output: web
-
-        - title: Historia Chilena Contemporánea
-          url: /Libres_HFW131.html
-          output: web
+        folderitems:
+          - title: Come To CS
+            url: /come_to_cs.html
+            output: web, pdf
+
+            subfolders:
+              - title: Semestre 1
+                output: web
+                subfolderitems:
+                  - title: Matemática I
+                    url: /MAT-021.html
+                    output: web
+
+                  - title: Programación
+                    url: /IWI-131.html
+                    output: web
+
+                  - title: Ed. Física I
+                    url: /EFI-100.html
+                    output: web
+
+                  - title: Física 100
+                    url: /FIS-100.html
+                    output: web
+
+              - title: Semestre 2
+                output: web
+                subfolderitems:
+                  - title: Ed. Física II
+                    url: /EFI-101.html
+                    output: web
+
+                  - title: Física General I
+                    url: /FIS-110.html
+                    output: web
+
+                  - title: Introducción a La Ingeniería
+                    url: /IWG-101.html
+                    output: web
+
+                  - title: Matemática II
+                    url: /MAT-022.html
+                    output: web
+
+                  - title: Química Y Sociedad
+                    url: /QUI-010.html
+                    output: web
+
+              - title: Semestre 3
+                output: web
+                subfolderitems:
+                  - title: Estructuras de datos
+                    url: /INF-134.html
+                    output: web
+
+                  - title: Estructuras Discretas
+                    url: /INF-152.html
+                    output: web
+
+                  - title: Matemática III
+                    url: /MAT-023.html
+                    output: web
+
+                  - title: Teoría de Sistemas
+                    url: /INF-260.html
+                    output: web
+
+                  - title: Física General III
+                    url: /FIS-130.html
+                    output: web
+
+              - title: Semestre 4
+                output: web
+                subfolderitems:
+                  - title: Matemática IV
+                    url: /MAT-024.html
+                    output: web
+
+                  - title: Informática Teórica
+                    url: /INF-155.html
+                    output: web
+
+                  - title: Lenguajes de Programación
+                    url: /INF-253.html
+                    output: web
+
+                  - title: Economía I-A
+                    url: /ICS-733.html
+                    output: web
+
+                  - title: Física 120
+                    url: /FIS-120.html
+                    output: web
+
+              - title: Semestre 5
+                output: web
+                subfolderitems:
+                  - title: Bases de Datos
+                    url: /INF-239.html
+                    output: web
+
+                  - title: Arquitectura y Organización de Computadores
+                    url: /INF-245.html
+                    output: web
+
+                  - title: Física 140
+                    url: /FIS-140.html
+                    output: web
+
+                  - title: Estadística Computacional
+                    url: /INF-280.html
+                    output: web
+
+                  - title: Organizaciones y Sistemas de Información
+                    url: /INF-270.html
+                    output: web
+
+              - title: Semestre 6
+                output: web
+                subfolderitems:
+                  - title: Análisis y Diseño de Software
+                    url: /INF-236.html
+                    output: web
+
+                  - title: Algoritmos‌ ‌y‌ ‌Complejidad‌
+                    url: /INF-221.html
+                    output: web
+
+                  - title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad
+                    url: /INF-276.html
+                    output: web
+
+                  - title: Optimización
+                    url: /INF-292.html
+                    output: web
+
+                  - title: Sistemas‌ ‌Operativos‌
+                    url: /INF-246.html
+                    output: web
+
+              - title: Semestre 7
+                output: web
+                subfolderitems:
+                  - title: Ingeniería de Software
+                    url: /INF-225.html
+                    output: web
+
+                  - title: Redes de computadores
+                    url: /INF-256.html
+                    output: web
+
+                  - title: Información y Matemáticas Financieras
+                    url: /ICN-270.html
+                    output: web
+
+                  - title: Computación Científica
+                    url: /INF-285.html
+                    output: web
+
+                  - title: Investigación de Operaciones
+                    url: /INF-293.html
+                    output: web
+
+              - title: Semestre 8
+                output: web
+                subfolderitems:
+                  - title: Diseño de Interfaces Usuarias
+                    url: /INF-322.html
+                    output: web
+
+                  - title: Sistemas Distribuidos
+                    url: /INF-343.html
+                    output: web
+
+                  - title: Inteligencia Artificial
+                    url: /INF-295.html
+                    output: web
+
+                  - title: Sistemas de Gestión
+                    url: /INF-266.html
+                    output: web
+
+              - title: Semestre 9
+                output: web
+                subfolderitems:
+                  - title: Gestión de Proyectos de Informatica
+                    url: /INF-360.html
+                    output: web
+
+              - title: Semestre 10 + 1
+                output: web
+                subfolderitems:
+                  - title: Taller Desarrollo de Proyecto de Informática
+                    url: /INF-228.html
+                    output: web
+
+                  - title: Trabajo de Título I
+                    url: /INF-309.html
+                    output: web
+
+                  - title: Trabajo de Título II
+                    url: /INF-310.html
+                    output: web
+
+              - title: Libres
+                output: web
+                subfolderitems:
+                  - title: Crecimiento y Desarrollo Personal
+                    url: /HRW-104.html
+                    output: web
+
+                  - title: Formación y liderazgo empresarial
+                    url: /HRW-131.html
+                    output: web
+
+                  - title: Expresión oral y escrita
+                    url: /HFW-144.html
+                    output: web
+
+                  - title: Ética
+                    url: /HRW-130.html
+                    output: web
+
+                  - title: Historia Chilena Contemporánea
+                    url: /HFW-131.html
+                    output: web

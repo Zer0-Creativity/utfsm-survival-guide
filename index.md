@@ -1,5 +1,4 @@
 ---
-title: ""
 keywords: sample homepage
 sidebar: main_sidebar
 permalink: index.html
@@ -26,8 +25,6 @@ Esperamos hayan tenido unas buenas vacaciones porque esto está recién comenzan
 <div style="text-align: right;">
  Bienvenidos sansanos y prepare your anus
 </div>
-
-{% include note.html content="(19/05/2024) Se actualizaron ciertas entradas de ARQUI y ESTACA en el semestre 5" %}
 
 {% include note.html content="(23/11/2023) Post-postdata, esto es un fork de un fork del manual original, el link del fork anterior que era del CEEINF está caído de hace un tiempo, así que decidimos re-subirlo a este link. <br/><br/>
 Tenemos la idea de actualizarlo al año actual, pero no prometemos nada.<br/><br/>
