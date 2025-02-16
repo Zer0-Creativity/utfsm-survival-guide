@@ -1,99 +1,78 @@
 ---
-title: Matemática III [MAT-023]
+title: Matemática III [mate 3]
 keywords: mate3, mate023, mat023
-last_updated: Dec 22, 2020
-summary: "Asignatura teórica práctica de carácter intermedio que a partir de una introducción a las transformaciones
-lineales, entrega los conceptos fundamentales del cálculo diferencial en varias variables, ecuaciones
-diferenciales ordinarias, series y transformadas de Fourier."
+summary: "Asignatura teórica práctica de carácter intermedio que a partir de una introducción a las transformaciones lineales, entrega los conceptos fundamentales del cálculo diferencial en varias variables, ecuaciones diferenciales ordinarias, series y transformadas de Fourier. La tercera es la vencida ahahahaha aaah aha AAAAAAAAAAAAAAAAAA :'D"
 sidebar: main_sidebar
 permalink: semestre3_MAT023.html
 folder: semestre-3
 ---
 
-La tercera es la vencida ahahahaha aaah aha AAAAAAAAAAAAAAAAAA :'D
+## Información General
 
-## Información general:
+- Sigla: MAT-023
+- Nivel de dificultad: 7/10
+- Créditos USM: 4
+- Créditos SCT: 7
+- Pre-requisitos: MAT-022
+- Eje formativo: Ciencias Básicas de la Ingeniería
+- Semestre en que se dicta: Ambos (Par/Impar)
 
-- Sigla: MAT-023.
-- Nivel de dificultad: 7/10.
-- Créditos USM: 4.
-- Créditos SCT: 7.
-- Eje formativo: Ciencias Básicas de la Ingeniería.
-- Semestre en que se dicta: Ambos (Par/Impar).
-- Prerrequisitos: MAT-022.
-
-## Contenidos:
+## Contenidos
 
 <img align= "right" width= "300" height= "280" src= "images/semestre-3/mate3-meme1.jpg">
 
-- Transformaciones lineales.
-- Funciones de varias variables.
-- Ecuaciones diferenciales de primer orden.
-- Ecuaciones diferenciales de orden superior.
-- Transformada de Laplace.
-- Series e integral de Fourier.
+- Transformaciones lineales
+- Funciones de varias variables
+- Ecuaciones diferenciales de primer orden
+- Ecuaciones diferenciales de orden superior
+- Transformada de Laplace
+- Series e integral de Fourier
 
-## Comentarios de los alumnos:
+## Comentarios de los alumnos
 
 ### 2023-2
-* Si es posible no tomen el ramo a primera hora.
-* Ir a las ayudantias, se sueltan paltas
-* Estudiar de certamenes pasados, lo normal es que se repita algun ejercicio.
+
+- Si es posible no tomen el ramo a primera hora.
+- Ir a las ayudantias, se sueltan paltas
+- Estudiar de certamenes pasados, lo normal es que se repita algun ejercicio.
 
 ### 2023-1
-* Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar
-* La dificultad va de más a menos.
-* EDO es muy mecanico pero son muchos cambios de variable.
-* Mate 1 en 3D.
-* Tomar con Cifu si entiendes la materia rápido o tomar con Gonzalez si quieres la materia simplificada.
-* Valdebenito te extrañamos...
+
+- Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar Derivar
+- La dificultad va de más a menos.
+- EDO es muy mecanico pero son muchos cambios de variable.
+- Mate 1 en 3D.
+- Tomar con Cifu si entiendes la materia rápido o tomar con Gonzalez si quieres la materia simplificada.
+- Valdebenito te extrañamos...
 
 ### Pre-Pandemia
+
 - Como mate 1 pero agrégale d/d a todo: dx/dy, d²z/d²f, d²t/d²x, etc...
-
 - 3rd time's the charm...
-
 - Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena.
-
 - Teorema de Rolle GG.
-
 - Cifu = GOD.
-  
 - Muñoz = MVP.
-  
 - Cifuentes:
-
   - "Les parece?".
-
   - Eliminamos el bicho si?.
-
   - Descenso dimensional si?.
-
   - Me miran con caras raras y me da cosa OJO -_-
-
   - Bueno, no me quieren ayudar, pues me entretengo solo.
-
   - El washimingo.
-
   - Esta integral es elegantísima.
-
   - "De acuerdo?".
-
   - Y le metemos la bolita.
-
   - Ver a cifu enojado = casi imposible (un informático tiene este récord xD) (después de ese semestre se fue de la U).
-
   - **La Gran Cifuentes: Faltar a clases y avisar con -5 minutos de anticipación.**
-
   - La gran **Cifuentes** 2: veo colores raros (y duendes), y no haré clases hoy.
-
   - La gran **Cifuentes** 3: Pero si era fácil, solo tenían que hacer el reemplazo de
 
     <div class='text-center mb-3'>
         <img src="images/semestre-3/mate3-meme2.jpg" alt="collapse" height="auto">
     </div>
-  - La gran **Cifuentes** 4: Mi vecina me rompió la casa con el auto. Estamos bien y la vecina también (jaja). Hoy no haré clases.
 
+  - La gran **Cifuentes** 4: Mi vecina me rompió la casa con el auto. Estamos bien y la vecina también (jaja). Hoy no haré clases.
 - Bahamondes:
   - Apocamondes.
   - Rajamondes.

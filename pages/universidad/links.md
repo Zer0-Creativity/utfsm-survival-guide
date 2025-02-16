@@ -1,14 +1,13 @@
 ---
 title: Links de Interés
-last_updated: August 29, 2020
 sidebar: main_sidebar
 permalink: links.html
 folder: universidad
 ---
 
-**Esta sección contiene una breve recopiliación de información de utilidad. Si faltó algo por favor notificar. Más información y links:**
+**Esta sección contiene una breve recopilación de información de utilidad. Si faltó algo por favor notificar. Más información y links:**
 
-| Contacto Secretarias | sec-pregrado-cs@inf.utfsm.cl|
+| Contacto Secretarias | <sec-pregrado-cs@inf.utfsm.cl>|
 | SIGA (Sistema de información de gestión académica) | [https://siga.usm.cl][siga] |
 | Gestión de cursos y material del DI | [http://moodle.inf.utfsm.cl][moodle] |
 | Gestión de cursos y material de cursos de carreras en general | [http://aula.usm.cl][aula] |
@@ -28,20 +27,19 @@ folder: universidad
 | RR.EE. | [http://rree.usm.cl][rree] |
 | DTI: Para descargar Office, Wolfram | [http://www.dti.usm.cl/servicios6][dti] |
 | Fan page DI | [https://www.fb.com/informaticaUSM/][fan_di] |
-| Fan page CEEINF | [https://www.fb.com/ceeinf/][fan_ceeinf] | 
+| Fan page CEEINF | [https://www.fb.com/ceeinf/][fan_ceeinf] |
 | Fan page FEUSAM Santiago | [https://www.fb.com/feusam/][fan_feusam] |
 | Grupo facebook: FEUSAM Santiago | [https://www.fb.com/groups/FEUSAM/][fan_santiago] |
 | Grupo facebook: Informáticos Santiago | [https://www.fb.com/groups/inforamticausmsantiago][infor_santiago] |
 
-
 [siga]: https://siga.usm.cl/
 [moodle]: http://moodle.inf.utfsm.cl
 [aula]: https://aula.usm.cl/
-[calendario]: http://www.vra.usm.cl/documentos/ 
+[calendario]: http://www.vra.usm.cl/documentos/
 [zimbra]: http://zimbra.alumnos.inf.utfsm.cl
-[mail]: http://mail.sansano.usm.cl 
-[direc_estudios]: http://www.direcciondeestudios.usm.cl 
-[sireb]: http://sireb.usm.cl 
+[mail]: http://mail.sansano.usm.cl
+[direc_estudios]: http://www.direcciondeestudios.usm.cl
+[sireb]: http://sireb.usm.cl
 [pagos]: http://portalpagos.usm.cl
 [pasaporte]: http://pasaporte.usm.cl
 [sitio]: http://portal.inf.utfsm.cl
@@ -56,6 +54,5 @@ folder: universidad
 [fan_feusam]: https://www.fb.com/feusam/
 [fan_santiago]: https://www.fb.com/groups/FEUSAM/
 [infor_santiago]: https://www.fb.com/groups/inforamticausmsantiago
-
 
 {% include links.html %}

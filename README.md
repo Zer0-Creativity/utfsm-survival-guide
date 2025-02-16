@@ -11,15 +11,15 @@ Tenemos la intención de actualizarlo y agregarle algunas cositas. Cualquier com
 ## Tabla de Contenidos
 
 - [Estructura del Proyecto](#estructura-del-proyecto)
-    - [Archivos](#Archivos)
+  - [Archivos](#archivos)
 - [Como editar cosas pequeñas](#como-editar-cosas-pequenas)
-    - [Formato de Páginas](#formato-de-páginas)
+  - [Formato de Páginas](#formato-de-páginas)
 - [Como hacer cambios grandes y probarlos localmente](#como-hacer-cambios-grandes-y-probarlos-localmente)
-    - [Setup y servidor local](#setup-y-servidor-local)
-    - [Añadir una página nueva](#anadir-una-pagina-nueva)
-    - [Añadir una sección nueva](#anadir-una-seccion-nueva)
+  - [Setup y servidor local](#setup-y-servidor-local)
+  - [Añadir una página nueva](#anadir-una-pagina-nueva)
+  - [Añadir una sección nueva](#anadir-una-seccion-nueva)
 - [Agradecimientos](#agradecimientos)
-    - [Créditos](#créditos)
+  - [Créditos](#créditos)
 
 ## Estructura del Proyecto
 
@@ -34,9 +34,9 @@ Muy importante, en el proyecto hay 2 ramas, master es la rama principal y es la 
 Aquí una lista de los archivos que considero más importantes para el proyecto.
 
 - `_data/`
-    - `sidebars/`
-        - `main_sidebar.yml`, esté es la tabla de contenidos donde se encuentran los semestres.
-    - `topnav.yml`, aquí se encuentra el navbar de arriba en la página.
+  - `sidebars/`
+    - `main_sidebar.yml`, esté es la tabla de contenidos donde se encuentran los semestres.
+  - `topnav.yml`, aquí se encuentra el navbar de arriba en la página.
 - `css/`, estilos de la página
 - `images/`, todas las imágenes ocupadas
 - `pages/`, aquí están todos los archivos markdown de cada sub-página.
@@ -146,4 +146,3 @@ Ahora una pequeña mención a los contribuidores del proyecto a lo largo de su e
 - [LuckJMG](https://github.com/LuckJMG)
 - [siroale](https://github.com/siroale)
 - [MoonTurtlee](https://github.com/MoonTurtlee)
-

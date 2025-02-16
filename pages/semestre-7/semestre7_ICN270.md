@@ -1,7 +1,6 @@
 ---
 title: Información y Matemáticas Financieras [IMAFI]
 keywords: industrias, imafi
-last_updated: Dec 22, 2020
 summary: "LO ÚNICO QUE IMPORTA ES LA PLATA"
 sidebar: main_sidebar
 permalink: semestre7_ICN270.html
@@ -10,34 +9,27 @@ folder: semestre-7
 
 <img id="right-img" src="{{ site.baseurl }}/images/semestre7/stonks.png">
 
-## Información General:
-* Sigla: ICN-270
-* Nivel de dificultad según estudiantes: 5/10
-* Créditos USM: 3
-* Créditos SCT: 5
-* Prerrequisitos: ECONO
-* Semestre en que se dicta: Par e impar
+## Información General
 
+- Sigla: ICN-270
+- Nivel de dificultad según estudiantes: 5/10
+- Créditos USM: 3
+- Créditos SCT: 5
+- Pre-requisitos: IWN-170
+- Semestre en que se dicta: Par e impar
 
 ## Contenidos
 
-* Economía - Finanzas - Contabilidad
-* Matemáticas Financieras
-* Ingeniería Económica
+- Economía - Finanzas - Contabilidad
+- Matemáticas Financieras
+- Ingeniería Económica
 
-<!--
-## Consejos
-* 
-*
-*
-*
--->
+## Comentarios
 
-## Comentarios de alumnos
+### Pre-pandemia
 
-* Es como econo, pero serio
-* El profe es bueno, pero su horario le quita todo lo bueno (viernes 11-12-13-14 D:)
-* El profe es dios del excel, hace maravillas jamás vistas.
-
+- Es como econo, pero serio
+- El profe es bueno, pero su horario le quita todo lo bueno (viernes 11-12-13-14 D:)
+- El profe es dios del excel, hace maravillas jamás vistas.
 
 {% include links.html %}

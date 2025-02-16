@@ -1,59 +1,49 @@
 ---
-title: Teoría de Sistemas
+title: Teoría de Sistemas [TEOSIS]
 keywords: comunismo, teosis
-last_updated: Dec 22, 2020
-summary: "Esta asignatura forma parte del plan de estudios de Ingeniería Civil Informática conducente a la
-Licenciatura en Ciencias de la Ingeniería. El propósito de esta es que los estudiantes aprendan
-conceptos y propiedades de aquello que se percibe de sistema y conozcan las técnicas para su
-análisis, comprensión y representación."
+summary: "Esta asignatura forma parte del plan de estudios de Ingeniería Civil Informática conducente a la Licenciatura en Ciencias de la Ingeniería. El propósito de esta es que los estudiantes aprendan conceptos y propiedades de aquello que se percibe de sistema y conozcan las técnicas para su análisis, comprensión y representación. Humanista disfrazado de ramo informático."
 sidebar: main_sidebar
 permalink: semestre3_TEOSIS.html
 folder: semestre-3
 ---
 
-Humanista disfrazado de ramo informático.
+## Información General
 
-## Información general:
+- Sigla: INF-260
+- Nivel de dificultad: 1/10
+- Créditos USM: 3
+- Créditos SCT: 5
+- Pre-requisitos: IWG-101
+- Eje formativo: Ciencias de la Ingeniería - Sistemas y Gestión
+- Semestre en que se dicta: Impar
 
-- Sigla: INF-260.
-- Nivel de dificultad: 1/10.
-- Créditos USM: 3.
-- Créditos SCT: 5.
-- Eje formativo: Ciencias de la Ingeniería - Sistemas y Gestión.
-- Semestre en que se dicta: Impar.
-- Prerrequisitos: IWG-101.
-
-
-## Contenidos:
+## Contenidos
 
 - Epistemología de sistemas. Del cartesianismo al pensamiento de sistemas.
 - La teoría de sistemas y la teoría de sistemas generales.
 - Ontología de sistemas.
 - El concepto de sistemas y las propiedades de un sistema.
-
 - Resolución de complejidad y modelado de sistemas.
 - Clasificación de sistemas.
 - Los sistemas viables.
 - Los sistemas de información y los sistemas de gestión en los sistemas viables.
 - El modelado de sistemas viables.
 
-
-## Comentarios de los alumnos:
+## Comentarios
 
 ### 2023-1
-* Todos los grupos tienen un integrante secreto llamado Gepeto.
-* No ir a clases (requerimiento).
-* El ramo se pasa solo.
-* Nadie fue a clases, la profe se puso triste y cambio el certamen final a una tarea online.
-* La profe no presta atención a las presentaciones, chamuyen.
+
+- Todos los grupos tienen un integrante secreto llamado Gepeto.
+- No ir a clases (requerimiento).
+- El ramo se pasa solo.
+- Nadie fue a clases, la profe se puso triste y cambio el certamen final a una tarea online.
+- La profe no presta atención a las presentaciones, chamuyen.
 
 ### Pre-Pandemia
--  **Gloria a Camila Vallejos -ric 2013.**
 
+- **Gloria a Camila Vallejos -ric 2013.**
 - RIC CADA CLASE: EL BANCO CONCHETUMARE PIÑERA SE ROBÓ EL BANCO ENTERO WEON / COMPRANDO CONFORT LE ESTOY DANDO PLATA A LAS FAMILIAS MÁS RICAS DE CHILE CERDOS CAPITALISTAS.
-
 - Facho pobre xd.
-
 - Buena idea tomarlo en la mañana, te asegura una profundas 3 horas de sueño.
 - Yo soy un comunista a la antigua, no como la Vallejo, que no son comunistas de verdad. - ric luego de que la Vallejo pasó a ser de parte del Gobierno.
 - Totalidad por los bordes.
@@ -64,7 +54,6 @@ Humanista disfrazado de ramo informático.
 - "vayan a la marcha cabros, yo si iré en Valparaíso"
 - Si sienten que el profe está joteando a sus alumnas es normal. Sigan sintiéndolo porque es lo que está haciendo.
 - Si quieres desatar el infierno pregúntale al profe por festivales latinoamericanos.
-  
   - Jebus es todo un loquillo.
 - Zorbamelgriego.
 

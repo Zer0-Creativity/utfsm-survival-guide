@@ -1,5 +1,5 @@
 ---
-title: Optimización‌‌ ‌‌[Opti](Ex‌ ‌IO1)‌
+title: Optimización‌ ‌[opti]
 keywords: Sistemas de decisión informática
 last_updated: July 3, 2016
 tags:
@@ -9,29 +9,29 @@ permalink: semestre6_INF292.html
 folder: semestre-6
 ---
 
+## Información general
 
-## Información‌ ‌general:‌ ‌
-
-- Sigla:‌ ‌INF-292‌ ‌
-- Nivel‌ ‌de‌ ‌dificultad‌ ‌según‌ ‌estudiantes:‌ ‌5/10‌ ‌
-- Créditos‌ ‌USM‌ ‌:‌ 3
+- Sigla: INF-292
+- Nivel de dificultad según estudiantes: 5/10
+- Créditos USM‌: 3
 - Créditos SCT: 5
-- Prerrequisitos:‌ ‌Mate‌ ‌3.‌ ‌A‌ ‌saber‌ ‌por‌ ‌qué...‌ ‌
+- Pre-requisitos: MAT-023
 
-## Contenidos:‌ ‌
+## Contenidos
 
-- Programación Lineal.
-- Programación Lineal Entera.
-- Programación Dinámica.
-- Teoría de Redes.
-- Técnicas de Programación de Proyectos.
+- Programación Lineal
+- Programación Lineal Entera
+- Programación Dinámica
+- Teoría de Redes
+- Técnicas de Programación de Proyectos
 
-## Comentarios‌ ‌de‌ ‌los‌ ‌alumnos:‌ ‌
+## Comentarios
 
-- Estudiando‌ ‌de‌ ‌los‌ ‌certámenes‌ ‌anteriores‌ ‌se‌ ‌puede‌ ‌pasar.‌ ‌
-- Muchos‌ ‌de‌ ‌los‌ ‌ejercicios‌ ‌tipo‌ ‌certamen‌ ‌son‌ ‌mecanizables‌ ‌(Se‌ ‌hacen‌ ‌todos‌ ‌igual).‌ ‌
-- Si‌ ‌les‌ ‌aparecen‌ ‌2‌ ‌cero‌ ‌en‌ ‌el‌ ‌simplex, elijan‌ ‌el‌ “positivo” ‌
+### Pre-pandemia
 
+- Estudiando de los certámenes anteriores se puede pasar.
+- Muchos de los ejercicios tipo certamen son mecanizables (Se hacen todos igual).
+- Si les aparecen 2 cero en el simplex, elijan el‌ “positivo” ‌
 
 <div class="row">
     <div class="col-md-3">
