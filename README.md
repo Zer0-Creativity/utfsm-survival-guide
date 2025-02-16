@@ -1,12 +1,12 @@
 # UTFSM Survival Guide
 
-Bienvenidos al source code de la guia de supervivencia de la USM!!!
+Bienvenidos al source code de la guía de supervivencia de la USM!!!
 
-Este repositorio es un fork del repositorio original del [CEEING](https://github.com/CEEINF-UTFSM/utfsm-survival-guide), que como está caído de hace un tiempo, además de que no hay actualizaciones desde la pandemia, decidimos volverlo a subir a internet para que la comunidad tenga acceso.
+Este repositorio es un fork del repositorio original del [CEEINF](https://github.com/CEEINF-UTFSM/utfsm-survival-guide), que como está caído de hace un tiempo, además de que no hay actualizaciones desde la pandemia, decidimos volverlo a subir a internet para que la comunidad tenga acceso.
 
 A su vez el repositorio original surge a partir de una recopilación de comentarios sobre la carrera que se puede encontrar [aquí](https://docs.google.com/document/d/1ZORkRBDfVD3lYEzETasc74sJj7cdgy6oqHFKpqUJSgc/edit).
 
-Tenemos la intención de actualizarlo y agregarle algunas cosita. Cualquier comentario o sugerencia la pueden hacer en este repositorio en la pestaña de issues, esperamos que les sea de su agrado.
+Tenemos la intención de actualizarlo y agregarle algunas cositas. Cualquier comentario o sugerencia la pueden hacer en este repositorio en la pestaña de issues, esperamos que les sea de su agrado.
 
 ## Tabla de Contenidos
 
@@ -31,7 +31,7 @@ Muy importante, en el proyecto hay 2 ramas, master es la rama principal y es la 
 
 ### Archivos
 
-Aquí una lista de los archivos que considero más importantese para el proyecto.
+Aquí una lista de los archivos que considero más importantes para el proyecto.
 
 - `_data/`
     - `sidebars/`
@@ -39,33 +39,33 @@ Aquí una lista de los archivos que considero más importantese para el proyecto
     - `topnav.yml`, aquí se encuentra el navbar de arriba en la página.
 - `css/`, estilos de la página
 - `images/`, todas las imágenes ocupadas
-- `pages/`, aquí estan todos los archivos markdown de cada subpágina.
+- `pages/`, aquí están todos los archivos markdown de cada sub-página.
 - `_config.yml`, configuración del jekyll (no tocar)
 - `404.md`, página fallback
 - `index.md`, página de introducción
 
 ## Como editar cosas pequeñas
 
-Si quieres añadir un comentario a un curso, cambiar una descripción, poner una imagén, hacer algo pequeño, no necesitas setear nada previamente, solo tienes que editar los archivos que desees.
+Si quieres añadir un comentario a un curso, cambiar una descripción, poner una imagen, hacer algo pequeño, no necesitas setear nada previamente, solo tienes que editar los archivos que desees.
 
 Para este caso los archivos disponibles para edición básica son:
 
 - `images/`, por si quieres agregar una imagen es aquí
-- `pages/`, aquí se encuentran todos los archivos markdown de las subpáginas
+- `pages/`, aquí se encuentran todos los archivos markdown de las sub-páginas
 - `index.md`, página de inicio
 
 ### Formato de Páginas
 
-Toda página debe seguir un formato predefinido para que funcióne bien, que se resume en:
+Toda página debe seguir un formato predefinido para que funcione bien, que se resume en:
 
 ``` md
 ---
 title: nombre de la página en el tab del navegador
 keywords: palabras clave que ayudan a la búsqueda
 last_update: ultima actualización del archivo (por favor mantener actualizado)
-summary: "resumen de la página que aparecera al inicio"
+summary: "resumen de la página que aparecerá al inicio"
 sidebar: main_sidebar
-permalink: link que aparecera agregado al url de la página
+permalink: link que aparecerá agregado al url de la página
 folder: carpeta dentro de /pages, donde se encuentra el archivo markdown
 ---
 
@@ -78,7 +78,7 @@ Puede ver un archivo dentro de `pages/` para ver mejor la estructura.
 
 ## Como hacer cambios grandes y probarlos localmente
 
-Esto ya es un poco más complicado y requiere usar la consola junto con WSL o linux.
+Esto ya es un poco más complicado y requiere usar la consola junto con WSL o Linux.
 
 ### Setup y servidor local
 
@@ -87,7 +87,7 @@ Esto ya es un poco más complicado y requiere usar la consola junto con WSL o li
 3. Dentro del repositorio ejecutar `bundle install`, si no funciona a la primera ocupe `sudo bundle install`.
 4. Para activar un servidor local donde ver los cambios, ejecutar `bundle exec jekyll serve`
 
-Luego el terminal te dará un link donde podrás ver la página y tus cambios en tiempo real y hacer la edición mucho más facil y dinámica.
+Luego el terminal te dará un link donde podrás ver la página y tus cambios en tiempo real y hacer la edición mucho más fácil y dinámica.
 
 ### Añadir una página nueva
 
@@ -120,7 +120,7 @@ Luego el terminal te dará un link donde podrás ver la página y tus cambios en
 
 ## Agradecimientos
 
-Aquí un pequeño comentario para agradecer a todas las personas que han participado de algúna u otra forma en este proyecto, desde el creador del manual original, hasta los alumnos que lo mantuvieron hasta antes de la pandemia, ahora es el turno de la siguiente generación de mantener este proyecto y luego pasar a la siguiente, y así para que este manual siga ayudando estando para futuros informaticos sansanos.
+Aquí un pequeño comentario para agradecer a todas las personas que han participado de alguna u otra forma en este proyecto, desde el creador del manual original, hasta los alumnos que lo mantuvieron hasta antes de la pandemia, ahora es el turno de la siguiente generación de mantener este proyecto y luego pasar a la siguiente, y así para que este manual siga ayudando estando para futuros informáticos sansanos.
 
 Ahora una pequeña mención a los contribuidores del proyecto a lo largo de su existencia:
 
