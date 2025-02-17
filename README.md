@@ -12,12 +12,12 @@ Tenemos la intención de actualizarlo y agregarle algunas cositas. Cualquier com
 
 - [Estructura del Proyecto](#estructura-del-proyecto)
   - [Archivos](#archivos)
-- [Como editar cosas pequeñas](#como-editar-cosas-pequenas)
+- [Como editar cosas pequeñas](#como-editar-cosas-pequeñas)
   - [Formato de Páginas](#formato-de-páginas)
 - [Como hacer cambios grandes y probarlos localmente](#como-hacer-cambios-grandes-y-probarlos-localmente)
   - [Setup y servidor local](#setup-y-servidor-local)
-  - [Añadir una página nueva](#anadir-una-pagina-nueva)
-  - [Añadir una sección nueva](#anadir-una-seccion-nueva)
+  - [Añadir una página nueva](#añadir-una-página-nueva)
+  - [Añadir una sección nueva](#añadir-una-sección-nueva)
 - [Agradecimientos](#agradecimientos)
   - [Créditos](#créditos)
 
@@ -126,7 +126,7 @@ Ahora una pequeña mención a los contribuidores del proyecto a lo largo de su e
 
 ### Créditos
 
-**Contribuidores Originales**
+#### Contribuidores Originales
 
 - [BayronValenzuela](https://github.com/BayronValenzuela)
 - [Mxi-C0de](https://github.com/Mxi-C0de)
@@ -141,7 +141,7 @@ Ahora una pequeña mención a los contribuidores del proyecto a lo largo de su e
 - [Pantuflaa](https://github.com/Pantuflaa)
 - [NeuronaSaturada](https://github.com/NeuronaSaturada)
 
-**Team Actual**
+#### Team Actual
 
 - [LuckJMG](https://github.com/LuckJMG)
 - [siroale](https://github.com/siroale)
