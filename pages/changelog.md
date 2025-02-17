@@ -12,6 +12,7 @@ toc: false
 - Se añadieron links para los pre-requisitos.
 - Se mapeo los ramos de la malla nueva a los ramos que existen en el manual
 - Se creo un nuevo campo en las asignaturas que muestra que pasa con ellas en la nueva malla.
+- Se sub-dividió la sección de información básica en 2 secciones más, localidades y departamento de informática.
 
 ## 19/05/2024
 

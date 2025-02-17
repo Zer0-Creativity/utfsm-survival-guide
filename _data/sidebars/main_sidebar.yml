@@ -22,6 +22,14 @@ entries:
                     url: /info_basica.html
                     output: web
 
+                  - title: Departamento de Informática
+                    url: /di.html
+                    output: web
+
+                  - title: Localidades
+                    url: /localidades.html
+                    output: web
+
                   - title: Preguntas Frecuentes
                     url: /preguntas.html
                     output: web
